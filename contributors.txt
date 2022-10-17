@@ -1,4 +1,4 @@
-echo "Klimes">>Contributors.txt
+echo "Václav Klimes">>Contributors.txt
 
 git init
 git add Contributors.txt
