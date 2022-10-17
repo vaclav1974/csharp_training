@@ -1,5 +1,6 @@
 echo "Václav Klimes">>Contributors.txt
 
+echo "2nd line"
 git init
 git add Contributors.txt
 
